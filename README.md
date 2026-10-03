@@ -10,6 +10,4 @@ Power BI dashboard built for the TATA Forage virtual experience program, focused
 - Power BI  
 - Excel (data cleaning)
 
-- ##  Project Link  
-[View the Dashboard on GitHub] https://github.com/Krtkartik/TATA-Forage-Dashboard
 
